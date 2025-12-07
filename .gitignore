@@ -1,0 +1,6 @@
+.backups/
+.operations.log
+
+node_modules/
+.vscode/
+.editor
